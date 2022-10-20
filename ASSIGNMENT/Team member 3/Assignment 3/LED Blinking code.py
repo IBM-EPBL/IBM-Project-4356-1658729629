@@ -1,4 +1,3 @@
-//Code for Blinking LED//
 import RPi.GPIO as GPIO		
 import time
 LED = 40			        
